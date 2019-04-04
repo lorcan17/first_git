@@ -3,3 +3,5 @@ This is my first commit
 This is the first change I've made
 
 This is the change I made on the branch first_branch
+
+This is a change I will revert in one future commit
